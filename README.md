@@ -9,4 +9,4 @@ This repository contains the starter code for many different projects. They are 
 * `prove` - Starter projects for each of the prove Developer projects.
 * `final` - Starter projects for final project.
 
-* it is time, My name is Mathew elmer smite
+* it is time, My name is Mathew elmer smite peace
