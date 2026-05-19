@@ -7,7 +7,7 @@ using System.IO;
  google AI overveiw: prompt: "C:\Users\hatin\OneDrive\Desktop\Prog.Projects\ecs 210\Second-time-cse-210\prove\Develop02\Entry.cs(12,6): error CS1513: } expected [C:\Users\hatin\OneDrive\Desktop\Prog.Projects\ecs 210\Second-time-cse-210\prove\Develop02\Develop02.csproj]" 
     was worried I had broke the files, so i copy and pasted the error code into google, said it was probably just a miss placed curly bracket,
 class assignment: "https://byui-cse.github.io/cse210-course-2023/unit01/csharp-3.html" :had to go back and remember how to set up a random number generator
-class assignment for help on the load and save section: https://byui-cse.github.io/cse210-course-2023/unit02/develop.html
+class assignment for help on the load and save section: "https://byui-cse.github.io/cse210-course-2023/unit02/develop.html"
 */
 
 // added feature: I made it so you could use ether numbers or a word to select an option. It also doesnt matter the caps of the word when selecting
