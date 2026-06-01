@@ -29,7 +29,7 @@ public class Word
             string AMBblank = "";
             foreach (char letter in _AMBword)
             {
-                AMBblank = AMBblank + "_";
+                    AMBblank = AMBblank + "_";
             }
             return AMBblank;
         }
